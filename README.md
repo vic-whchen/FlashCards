@@ -22,3 +22,4 @@ It uses:
 - Flask
 - SQLite
 
+It is now hosted at [CS Flash Cards](http://flashcard.vahichen.com:5000)
